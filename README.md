@@ -1,9 +1,10 @@
 A backend TicTacToe board of arbitrary size (square matrix) to keep track of the game which can either be used with NodeJS CLI or integrated with a webpage
 
-### Example
-```
+### Example 
+
+```javascript
 marks = ["💛", "💙"]
-size = 3 //will creat n*n matrix (board)
+size = 3 // will create n*n matrix (board)
 
 game = new TicTacToe(size, marks[0], marks[1])
 
