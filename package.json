@@ -1,0 +1,15 @@
+{
+  "name": "TicTacToe",
+  "version": "1.0.0",
+  "description": "A backend TicTacToe board of arbitrary size (square matrix) to keep track of the game which can either be used with NodeJS CLI or integrated with a webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tictactoe", "game"],
+  "author": "Shiv C Kushawah",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
